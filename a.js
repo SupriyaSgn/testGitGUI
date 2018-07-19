@@ -3,4 +3,4 @@
 
 alert("uoiiii");
 
-alert("uo");
+console.log("hi");
