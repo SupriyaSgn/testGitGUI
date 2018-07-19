@@ -1,7 +1,6 @@
-console.log("B");
-console.log("B");
 
-alert("uo");
-alert("uo");
+
+
+alert("uoiiii");
 
 alert("uo");
