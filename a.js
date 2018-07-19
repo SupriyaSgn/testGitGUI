@@ -1,1 +1,3 @@
-console.log("A");
+console.log("B");
+
+alert("uo");
