@@ -1113,10 +1113,7 @@ function createView() {
         //changes
         let backgroundColor = [];
         intervalList.forEach((reservation, index) => {
-            backgroundColor.push('lightgrey');
-            if (model.vm.tripStatus[0].weekStartDate >= reservation.intervalDate) {
-                backgroundColor[index] = 'orange';
-            }
+            console.log("hm");
         });
 
         let bar_chart = 'bar_chart' + tripId;
